@@ -1,0 +1,23 @@
+{
+    "name": "LoginTokenAuth",
+    "description": "Sign in to Matomo over api using the Users token_auth.",
+    "version": "4.0.0",
+    "license": "GPL v3+",
+    "keywords": ["authentication", "tokenAuth", "login"],
+    "homepage": "https://www.hd-cms.de",
+    "require": {
+        "piwik": ">=3.0.0-b1,<5.0.0-b1"
+    },
+    "authors": [
+        {
+            "name": "Dennis Hemeier",
+            "email": "support@hd-cms.de",
+            "homepage": "https://www.hd-cms.de"
+        }
+    ],
+    "support": {
+        "email": "support@hd-cms.de",
+        "issues": "https://github.com/HD-CMS/matomo-plugin-LoginTokenAuth/issues",
+        "source": "https://github.com/HD-CMS/matomo-plugin-LoginTokenAuth"
+    }
+}
